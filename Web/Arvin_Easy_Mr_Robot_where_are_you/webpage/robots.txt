@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /fl4gl0c4t10n.html/

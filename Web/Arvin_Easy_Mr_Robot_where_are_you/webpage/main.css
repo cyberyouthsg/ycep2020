@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html, body {
+	scroll-behavior: smooth;
+	font-family: Roboto;
+	background: black;
+	color: white;
+}
+
+.content {
+	position: absolute;
+	top: 15%;
+	width:100%;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+}
