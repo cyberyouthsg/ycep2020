@@ -23,7 +23,6 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Hello to Kenneth       | Miscellaneous    | Easy       | Davis      |
 | Alien Location         | Miscellaneous    | Easy       | Davis      |
 | Legislative History    | Miscellaneous    | Easy       | Davis      |
-
 | Bank Robbery           | Cryptography     | Easy       | Gregory    |
 | Temple                 | Cryptography     | Medium     | Gregory    |
 | 13                     | Cryptography     | Easy       | Gregory    |
@@ -38,12 +37,10 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Flag                   | Cryptography     |
 | RSA is Fun             | Cryptography     |
 | Intercepted Encryption | Cryptography     |
-
 | Mysterious Forest      |
 | MemeReport             |
 | Mona Lisa              |
 | Synesthetes            |
-
 | HEX OR HAX . . .
 | extensi0ns
 | Insecure Password
@@ -58,11 +55,9 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Nothing to see
 | Dead or Alive
 | fsb
-
 | Safe Deposit Door 
 | Crack Me
 | ERgnaloG
-
 | Sauce
 | AWShucks
 | Blockbuster's Last Store
@@ -78,7 +73,6 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | NotNormal
 | Math
 | Instagrain
-
 | Speed Typer
 | Stack it up
 | Jigsaw's Game
@@ -86,14 +80,11 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Hidden In the Slides
 | The vault of the flag
 | Base64
-
 | ezpz
 | nametag
 | repeat after me!
 | Race
-
 | Something_Fishy
-
 | Tweet Tweet
 | To the good old days
 | Identify the Target
