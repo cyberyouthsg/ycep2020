@@ -24,25 +24,25 @@ This is the list of challenges within this repository. _Unfortunately for now, t
 | Alien Location         | Miscellaneous    | Easy       | Davis      |
 | Legislative History    | Miscellaneous    | Easy       | Davis      |
 
-| Bank Robbery           |
-| Temple                 |
-| 13                     |
-| reflection             |
-| Mysterious
-| Basic decoding
-| Morse code
-| Forgetful Ben
-| Double
-| language?
-| Humpy Dumpty’s Secret  
-| Flag
-| RSA is Fun
-| Intercepted Encryption
+| Bank Robbery           | Cryptography     | Easy       | Gregory    |
+| Temple                 | Cryptography     | Medium     | Gregory    |
+| 13                     | Cryptography     | Easy       | Gregory    |
+| reflection             | Cryptography     | Easy       | Gregory    |
+| Mysterious             | Cryptography     |
+| Basic decoding         | Cryptography     |
+| Morse code             | Cryptography     |
+| Forgetful Ben          | Cryptography     |
+| Double                 | Cryptography     |
+| language?              | Cryptography     |
+| Humpy Dumpty’s Secret  | Cryptography     |  
+| Flag                   | Cryptography     |
+| RSA is Fun             | Cryptography     |
+| Intercepted Encryption | Cryptography     |
 
-| Mysterious Forest
-| MemeReport
-| Mona Lisa
-| Synesthetes
+| Mysterious Forest      |
+| MemeReport             |
+| Mona Lisa              |
+| Synesthetes            |
 
 | HEX OR HAX . . .
 | extensi0ns
