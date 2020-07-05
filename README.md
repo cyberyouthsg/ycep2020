@@ -1,4 +1,4 @@
-#YCEP 2020 CTF
+# YCEP 2020 CTF
 
 This repository houses all of the challenges that we have created for YCEP 2020 and includes challenges that were never released. YCEP2020 was organised by Cyber Youth Singapore.
 
